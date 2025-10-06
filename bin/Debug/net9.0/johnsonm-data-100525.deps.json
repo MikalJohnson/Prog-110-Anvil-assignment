@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "johnsonm-data-100525/1.0.0": {
+        "runtime": {
+          "johnsonm-data-100525.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "johnsonm-data-100525/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

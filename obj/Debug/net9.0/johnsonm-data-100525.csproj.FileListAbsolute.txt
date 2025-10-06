@@ -1,0 +1,14 @@
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/bin/Debug/net9.0/johnsonm-data-100525
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/bin/Debug/net9.0/johnsonm-data-100525.deps.json
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/bin/Debug/net9.0/johnsonm-data-100525.runtimeconfig.json
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/bin/Debug/net9.0/johnsonm-data-100525.dll
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/bin/Debug/net9.0/johnsonm-data-100525.pdb
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.AssemblyInfoInputs.cache
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.AssemblyInfo.cs
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.csproj.CoreCompileInputs.cache
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.dll
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/refint/johnsonm-data-100525.dll
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.pdb
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/johnsonm-data-100525.genruntimeconfig.cache
+/Users/mikal/Desktop/bellevue-college/intro-to-cSharp/week1/johnsonm-data-100525/obj/Debug/net9.0/ref/johnsonm-data-100525.dll
