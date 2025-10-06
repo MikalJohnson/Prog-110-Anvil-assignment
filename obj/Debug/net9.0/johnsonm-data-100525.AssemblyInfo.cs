@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("johnsonm-data-100525")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b27d7ebae8fbc8f9ee5408b32e50f5d97876fed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("johnsonm-data-100525")]
 [assembly: System.Reflection.AssemblyTitleAttribute("johnsonm-data-100525")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
